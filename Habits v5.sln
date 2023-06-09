@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Habits v5", "Habits v5\Habits v5.csproj", "{BC17207F-7752-47F2-9F2F-E47BF39CCE54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Habits v5.Tests", "Habits v5.Tests\Habits v5.Tests.csproj", "{B0255983-2C52-482D-B040-40BC0D595830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC17207F-7752-47F2-9F2F-E47BF39CCE54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC17207F-7752-47F2-9F2F-E47BF39CCE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC17207F-7752-47F2-9F2F-E47BF39CCE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC17207F-7752-47F2-9F2F-E47BF39CCE54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0255983-2C52-482D-B040-40BC0D595830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0255983-2C52-482D-B040-40BC0D595830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0255983-2C52-482D-B040-40BC0D595830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0255983-2C52-482D-B040-40BC0D595830}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F29F5B43-2D5F-4D3E-A158-DAB700254201}
+	EndGlobalSection
+EndGlobal
